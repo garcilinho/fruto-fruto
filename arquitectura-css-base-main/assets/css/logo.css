@@ -1,0 +1,17 @@
+@media screen and (min-witdh: 0) {
+    .logo{
+
+        display: none;
+        
+    }
+}
+
+@media screen and (min-witdh: 768px){
+
+    .logo{
+
+        display: block;
+    }
+}
+
+
